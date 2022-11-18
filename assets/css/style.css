@@ -3,19 +3,19 @@
     padding: 0;
     margin: 0;
 }
-
+/*the main body styling starts here*/
 body {
     background-color: #d9dcd6;
 }
-
+/*the main header styling starts here*/
 .menu_main {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
-
-.nav_bar a {
+/*the navbar styling starts here*/
+.nav_bar a { 
     text-decoration: none;
     color: white;
 }
@@ -28,7 +28,7 @@ body {
 .nav_bar h1 .seo {
     color: #d9dcd6;
 }
-
+/*the menu list styling starts here*/
 .menu_list {
     padding-top: 15px;
     margin-right: 20px;
@@ -55,11 +55,11 @@ body {
 .menu_list ul li a:hover {
     color: rgb(49, 47, 47);
 }
-
+/*for all paragraph tags styling starts here*/
 p {
     font-size: 16px;
 }
-
+/*the content-main styling starts here*/
 .content_main {
     height: 800px;
     width: 100%;
@@ -79,6 +79,7 @@ p {
     margin-left: 25px;
 }*/
 
+/*the content-main sub-section styling starts here*/
 .content_info {
     width: 75%;
     display: inline-block;
@@ -150,7 +151,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/*the second section of benefit_main styling starts here*/
 .benefit_main {
     margin-right: 20px;
     padding: 20px;
@@ -162,7 +163,7 @@ p {
     background-color: #2589bd;
     border-radius: 10px;
 }
-
+/*the sub section of benefit_main styling starts here*/
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
@@ -210,7 +211,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/*the footer styling starts here*/
 .footer {
     padding: 30px;
     clear: both;
